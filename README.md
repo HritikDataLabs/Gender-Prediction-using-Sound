@@ -4,3 +4,12 @@ The same name can be spelled out in a many ways (for example, Marc and Mark, or 
 First, using fuzzy (sound) name matching, you will search for author names in a dataset provided by the US Social Security Administration that contains names and genders of all individuals who have applied for Social Security Cards. Next, we'll aggregate the author dataset by including gender. Finally, you will use the new dataset to plot the gender distribution of children's picture books authors over time.
 
 To complete this project, you should be familiar with pandas DataFrames, NumPy for basic statistics, and Matplotlib for plotting.
+# Project Tasks
+1. Sound it out!
+2. Authoring the authors
+3. It's time to bring on the phonics... _again_!
+4. The inbetweeners
+5. Playing matchmaker
+6. Tally up
+7. Foreign-born authors?
+8. Raising the bar
