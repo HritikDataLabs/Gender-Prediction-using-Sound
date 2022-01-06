@@ -5,3 +5,12 @@ First, using fuzzy (sound) name matching, you will search for author names in a 
 
 To complete this project, you should be familiar with pandas DataFrames, NumPy for basic statistics, and Matplotlib for plotting.
 
+# Project Tasks
+1. Sound it out!
+2. Authoring the authors
+3. It's time to bring on the phonics... _again_!
+4. The inbetweeners
+5. Playing matchmaker
+6. Tally up
+7. Foreign-born authors?
+8. Raising the bar
